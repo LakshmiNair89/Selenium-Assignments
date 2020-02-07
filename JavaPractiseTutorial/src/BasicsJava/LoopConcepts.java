@@ -5,7 +5,7 @@ public class LoopConcepts {
 	public static void main(String[] args) {
 		
 //1.while loop
-	// disadvantage of while loop is that it will generate infinite loop if the incremental/decremental part
+	// disadvantage of while loop is that it will generate infinite loop if the incremental/decremental part is missed
 		int i=1;
 		while(i<=10) {
 			System.out.print(i+",");
